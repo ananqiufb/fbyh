@@ -1,0 +1,178 @@
+体育综合⚽,#genre#
+CCTV-5体育,http://150.138.8.143/00/SNM/CHANNEL00000360/index.m3u8
+CCTV5體育,rtsp://150.138.8.132/PLTV/88888888/224/3221227138/415322482.smil
+CCTV-5+体育赛事,http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
+CCTV5+體育賽事,rtsp://150.138.8.132/PLTV/88888888/224/3221226143/10000100000000060000000003071273_0.smil
+风云足球,http://113.57.111.4:1111/tsfile/live/1033_1.m3u8
+山东体育,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8#http://124.128.73.58:9901/tsfile/live/1001_1.m3u8#http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
+山东体育B,http://150.138.8.132/00/SNM/CHANNEL00000315/index.m3u8
+五星体育A,http://22725y284r.yicp.fun:9902/tsfile/live/1003_1.m3u8#http://222.64.56.17:6666/udp/239.45.3.210:5140#http://origin.lean.org.cn:4000/udp/239.45.3.210:5140
+SiTV五星体育,http://origin.lean.org.cn:4000/udp/239.45.3.210:5140#http://116.226.8.253:8881/udp/239.45.3.210:5140
+五星体育,http://[2409:8087:5e01:24::15]:6610/000000001000/0000000000001001/1/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
+劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=84e8fe2ac7c150b31b05e0b1bff82a8beff38d5a4c5771cc8d968b2632c5cfd24cd3acd2e800437cc6e99d6593dd95291d791c02506190858dd65a7ceff3e40d8f5e71a81e98055cd7ab1fc6a8
+魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=cae58055b43b1bda779eacbd3846222bf7437f416fd0a27593e46d3f5b3be2f151ba94acf82a662fc8d5265d2b63020dd4dcf0ee1446a600625ec8630fc9e914baf1c201fe10227f82700ee9d0
+魅力足球S,rtsp://150.138.8.132/PLTV/88888888/224/3221227123/443309050.smil
+魅力足球A,http://150.138.8.132/00/SNM/CHANNEL00002021/index.m3u8
+
+
+🍓央视频道🏡,#genre#
+CCTV-1,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3
+CCTV-1,http://111.170.172.113:35455/gaoma/cctv1.m3u8
+CCTV-1,http://111.160.27.70:35793/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3
+CCTV-2,http://111.170.172.113:35455/gaoma/cctv2.m3u8
+CCTV-3,http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3
+CCTV-3,http://goo.bkpcp.top/mg/cctv3
+CCTV1,http://dsm.huarunguoji.top:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV2,http://dsm.huarunguoji.top:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV3,http://dsm.huarunguoji.top:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
+CCTV4,http://dsm.huarunguoji.top:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
+CCTV5,http://dsm.huarunguoji.top:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
+CCTV5+,http://dsm.huarunguoji.top:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
+CCTV7,http://dsm.huarunguoji.top:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
+CCTV8,http://dsm.huarunguoji.top:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
+CCTV9,http://dsm.huarunguoji.top:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
+CCTV10,http://dsm.huarunguoji.top:35455/itv/1000000005000265010.m3u8?cdn=ystenlive
+CCTV11,http://dsm.huarunguoji.top:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
+CCTV12,http://dsm.huarunguoji.top:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
+CCTV14,http://dsm.huarunguoji.top:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
+CCTV15,http://dsm.huarunguoji.top:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
+CCTV16,http://dsm.huarunguoji.top:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
+CCTV17,http://dsm.huarunguoji.top:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
+CCTV1,http://iptv.0564.org:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV2,http://iptv.0564.org:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV3,http://iptv.0564.org:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
+CCTV4,http://iptv.0564.org:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
+CCTV5,http://iptv.0564.org:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
+CCTV5+,http://iptv.0564.org:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
+CCTV6,http://iptv.0564.org:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
+CCTV7,http://iptv.0564.org:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
+CCTV8,http://iptv.0564.org:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
+CCTV9,http://iptv.0564.org:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
+CCTV10,http://iptv.0564.org:35455/itv/1000000005000265010.m3u8?cdn=ystenlive
+CCTV11,http://iptv.0564.org:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
+CCTV12,http://iptv.0564.org:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
+CCTV14,http://iptv.0564.org:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
+CCTV15,http://iptv.0564.org:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
+CCTV16,http://iptv.0564.org:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
+CCTV17,http://iptv.0564.org:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
+CCTV1,http://60.12.183.46:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2,http://60.12.183.46:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3,http://60.12.183.46:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4,http://60.12.183.46:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5,http://60.12.183.46:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6,http://60.12.183.46:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7,http://60.12.183.46:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8,http://60.12.183.46:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9,http://60.12.183.46:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10,http://60.12.183.46:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11,http://60.12.183.46:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12,http://60.12.183.46:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13,http://60.12.183.46:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14,http://60.12.183.46:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15,http://60.12.183.46:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+
+💓咪咕直播,#genre#
+赛事播01,http://pan.taokee.vip:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+赛事播02,http://pan.taokee.vip:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+赛事播03,http://pan.taokee.vip:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+赛事播04,http://pan.taokee.vip:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+赛事播05,http://pan.taokee.vip:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+赛事播06,http://pan.taokee.vip:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+赛事播07,http://pan.taokee.vip:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+赛事播08,http://pan.taokee.vip:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+赛事播09,http://pan.taokee.vip:35455/itv/3000000001000026778.m3u8?cdn=FifastbLive
+赛事播10,http://pan.taokee.vip:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+赛事播11,http://pan.taokee.vip:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+赛事播12,http://pan.taokee.vip:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+赛事播13,http://pan.taokee.vip:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+赛事播14,http://pan.taokee.vip:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive
+赛事播15,http://pan.taokee.vip:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+赛事播16,http://pan.taokee.vip:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+赛事播17,http://pan.taokee.vip:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+赛事播18,http://pan.taokee.vip:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive
+赛事播19,http://pan.taokee.vip:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+赛事播20,http://pan.taokee.vip:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+赛事播21,http://pan.taokee.vip:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+赛事播22,http://pan.taokee.vip:35455/itv/3000000010000006944.m3u8?cdn=FifastbLive
+赛事播23,http://pan.taokee.vip:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive
+赛事播24,http://pan.taokee.vip:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+赛事播25,http://pan.taokee.vip:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+赛事播26,http://pan.taokee.vip:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive
+赛事播27,http://pan.taokee.vip:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+赛事播28,http://pan.taokee.vip:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+赛事播29,http://pan.taokee.vip:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive
+赛事播30,http://pan.taokee.vip:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive
+赛事播31,http://pan.taokee.vip:35455/itv/3000000010000012398.m3u8?cdn=FifastbLive
+赛事播32,http://pan.taokee.vip:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive
+赛事播33,http://pan.taokee.vip:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+赛事播34,http://pan.taokee.vip:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+赛事播35,http://pan.taokee.vip:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+赛事播36,http://pan.taokee.vip:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+赛事播37,http://pan.taokee.vip:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive
+赛事播38,http://pan.taokee.vip:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+赛事播39,http://pan.taokee.vip:35455/itv/3000000010000017997.m3u8?cdn=FifastbLive
+赛事播40,http://pan.taokee.vip:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive
+赛事播41,http://pan.taokee.vip:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+赛事播42,http://pan.taokee.vip:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive
+赛事播43,http://pan.taokee.vip:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+赛事播44,http://pan.taokee.vip:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+赛事播45,http://pan.taokee.vip:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive
+赛事播46,http://pan.taokee.vip:35455/itv/3000000010000024691.m3u8?cdn=FifastbLive
+赛事播47,http://pan.taokee.vip:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+赛事播48,http://pan.taokee.vip:35455/itv/3000000010000025943.m3u8?cdn=FifastbLive
+赛事播49,http://pan.taokee.vip:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive
+赛事播50,http://pan.taokee.vip:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive
+赛事播51,http://pan.taokee.vip:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+赛事播52,http://pan.taokee.vip:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+赛事播53,http://pan.taokee.vip:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive
+赛事壹4K,http://pan.taokee.vip:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+赛事贰4K,http://pan.taokee.vip:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+
+🔥香港无线,#genre#
+HOY体育,http://61.163.58.154:1321/ms/IPTV.php?id=144
+足球,http://61.163.58.154:1321/ms/IPTV.php?id=171
+NOW Sports-6,http://61.163.58.154:1321/ms/IPTV.php?id=180
+NOW Sports-2,http://61.163.58.154:1321/ms/IPTV.php?id=176
+NOW Sports英超2,http://61.163.58.154:1321/ms/IPTV.php?id=182
+NOW Sports-1,http://61.163.58.154:1321/ms/IPTV.php?id=175
+NOW Sports英超1,http://61.163.58.154:1321/ms/IPTV.php?id=183
+NOW Sports-7,http://61.163.58.154:1321/ms/IPTV.php?id=181
+NOW Sports英超3,http://61.163.58.154:1321/ms/IPTV.php?id=185
+bein sports 1,http://61.163.58.154:1321/ms/IPTV.php?id=188
+Now爆谷台,http://61.163.58.154:1321/ms/IPTV.php?id=136
+KIX韩国,http://61.163.58.154:1321/ms/IPTV.php?id=157
+凤凰新闻,http://61.163.58.154:1321/ms/IPTV.php?id=124
+翡翠台,http://61.163.58.154:1321/ms/IPTV.php?id=126
+NOW直播台,http://61.163.58.154:1321/ms/IPTV.php?id=131
+香港台5,http://61.163.58.154:1321/ms/IPTV.php?id=125
+NOW tv,http://61.163.58.154:1321/ms/IPTV.php?id=135
+HOY,http://61.163.58.154:1321/ms/IPTV.php?id=145
+VIU,http://61.163.58.154:1321/ms/IPTV.php?id=138
+fashion BOX,http://61.163.58.154:1321/ms/IPTV.php?id=155
+中旺TV,http://61.163.58.154:1321/ms/IPTV.php?id=154
+TVN,http://61.163.58.154:1321/ms/IPTV.php?id=156
+RHK,http://61.163.58.154:1321/ms/IPTV.php?id=150
+HOY资讯台,http://61.163.58.154:1321/ms/IPTV.php?id=146
+ROCK ACTION,http://61.163.58.154:1321/ms/IPTV.php?id=158
+ROCK美剧,http://61.163.58.154:1321/ms/IPTV.php?id=159
+Trill,http://61.163.58.154:1321/ms/IPTV.php?id=163
+
+年代MUCH,http://61.163.58.154:1321/ms/IPTV.php?id=174
+MYTV Super,http://61.163.58.154:1321/ms/IPTV.php?id=168
+MYTV Super2,http://61.163.58.154:1321/ms/IPTV.php?id=194
+MYTV Super3,http://61.163.58.154:1321/ms/IPTV.php?id=191
+
+黄金华剧台,http://61.163.58.154:1321/ms/IPTV.php?id=198
+197,http://61.163.58.154:1321/ms/IPTV.php?id=197
+LS TIMES音乐,http://61.163.58.154:1321/ms/IPTV.php?id=201
+天映频道,http://61.163.58.154:1321/ms/IPTV.php?id=207
+CCM电影,http://61.163.58.154:1321/ms/IPTV.php?id=206
+Astro欢喜台,http://61.163.58.154:1321/ms/IPTV.php?id=212
+Astro AOD,http://61.163.58.154:1321/ms/IPTV.php?id=213
+AStro AEC,http://61.163.58.154:1321/ms/IPTV.php?id=215
+TVB星河,http://61.163.58.154:1321/ms/IPTV.php?id=227
+无线星河台,http://61.163.58.154:1321/ms/IPTV.php?id=224
+TVB DRAMA,http://61.163.58.154:1321/ms/IPTV.php?id=231
+民视,http://61.163.58.154:1321/ms/IPTV.php?id=237
+
