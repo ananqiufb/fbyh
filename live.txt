@@ -6,11 +6,6 @@ CCTV5+體育賽事,rtsp://150.138.8.132/PLTV/88888888/224/3221226143/10000100000
 风云足球,http://113.57.111.4:1111/tsfile/live/1033_1.m3u8
 山东体育,http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8#http://124.128.73.58:9901/tsfile/live/1001_1.m3u8#http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
 山东体育B,http://150.138.8.132/00/SNM/CHANNEL00000315/index.m3u8
-五星体育A,http://22725y284r.yicp.fun:9902/tsfile/live/1003_1.m3u8#http://222.64.56.17:6666/udp/239.45.3.210:5140#http://origin.lean.org.cn:4000/udp/239.45.3.210:5140
-SiTV五星体育,http://origin.lean.org.cn:4000/udp/239.45.3.210:5140#http://116.226.8.253:8881/udp/239.45.3.210:5140
-五星体育,http://[2409:8087:5e01:24::15]:6610/000000001000/0000000000001001/1/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
-劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=84e8fe2ac7c150b31b05e0b1bff82a8beff38d5a4c5771cc8d968b2632c5cfd24cd3acd2e800437cc6e99d6593dd95291d791c02506190858dd65a7ceff3e40d8f5e71a81e98055cd7ab1fc6a8
-魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=cae58055b43b1bda779eacbd3846222bf7437f416fd0a27593e46d3f5b3be2f151ba94acf82a662fc8d5265d2b63020dd4dcf0ee1446a600625ec8630fc9e914baf1c201fe10227f82700ee9d0
 魅力足球S,rtsp://150.138.8.132/PLTV/88888888/224/3221227123/443309050.smil
 魅力足球A,http://150.138.8.132/00/SNM/CHANNEL00002021/index.m3u8
 
