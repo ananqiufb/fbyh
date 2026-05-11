@@ -3,6 +3,7 @@
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "http://oss4liview.moji.com/thd_file/2026/03/16/8f3aa460979f999455633dc256d27a34.jpg",
   "sites": [
+    {"key":"哔哩合集","name":"哔哩｜合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":{"json":"./哔哩合集.json","cookie":"./json/bili_cookie.txt"}},
     {"key": "瓜子","name": "🍉瓜子","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {"sp": "Guazi","danmu": true},"timeout": 10},
     {"key": "文才","name": "🌺文才","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {"sp": "Jpys","danmu": true},"timeout": 10},
     {"key": "糯米","name": "🍓糯米","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {"sp": "Nmys","danmu": true},"timeout": 10},
@@ -21,9 +22,8 @@
     {"key": "星芽短剧","name": "💖星芽┃短剧","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"ext": {"sp": "AppXY"},"timeout": 10},
     {"key": "碎片短剧","name": "🧸碎片┃短剧","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"ext": {"sp": "SuiPian"},"timeout": 10},
     {"key": "甜圈短剧","name": "🌸甜圈┃短剧","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"ext": {"sp": "TianQuan"},"timeout": 10},
-    {"key": "Omofun","name": "🏖️奥陌┃动漫","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"ext": {"sp": "Omofuns","danmu": true},"timeout": 10},
-    {"key": "动漫巴士","name": "🚌巴士┃动漫","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"ext": {"sp": "Dm84"},"timeout": 10},
-    {"key": "快手直播","name": "😎快手┃直播","type": 3,"api": "csp_AweSomeGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"filterable": 1,"style": {"type": "rect","ratio": 1.433},"ext": {"sp": "KsLive"},"timeout": 10},
+    //{"key": "Omofun","name": "🏖️奥陌┃动漫","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"ext": {"sp": "Omofuns","danmu": true},"timeout": 10},
+    //{"key": "动漫巴士","name": "🚌巴士┃动漫","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"ext": {"sp": "Dm84"},"timeout": 10},
     {"key": "虎牙直播","name": "🐯虎牙┃直播","type": 3,"api": "csp_AweSomeGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"filterable": 1,"style": {"type": "rect","ratio": 1.433},"ext": {"sp": "Huya"},"timeout": 10},
     {"key": "瓜子看球","name": "⚽瓜子┃看球","type": 3,"api": "csp_AweSomeGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"},"ext": {"sp": "GzSport"},"timeout": 10},
     {"key": "88看球","name": "⚽88┃看球","type": 3,"api": "csp_AweSomeGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"},"ext": {"sp": "Kanqiu"},"timeout": 10},
@@ -32,11 +32,7 @@
     {"key": "酷狗音乐","name": "🐕酷狗┃音乐","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"sp": "KuGou"},"timeout": 10},
     {"key": "世界听书","name": "🎸世界┃听书","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"sp": "BookTing"},"timeout": 10},
     {"key": "六月听书","name": "🎤六月┃听书","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"sp": "WeiTing"},"timeout": 10},
-    {"key": "少儿教育","name": "📚少儿┃教育","type": 3,"api": "csp_AweSomeGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"sp": "Bili","json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/32EF375_773_bilisejy_20251204150311837newMediaFile.bmp"},"timeout": 20},
-    {"key": "小学课堂","name": "📚小学┃课堂","type": 3,"api": "csp_AweSomeGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"sp": "Bili","json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3753221_773_bilixxkt_20251204150347660newMediaFile.bmp"},"timeout": 20},
-    {"key": "初中课堂","name": "📚初中┃课堂","type": 3,"api": "csp_AweSomeGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"sp": "Bili","json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3ED04A6_773_biliczkt_20251204150157889newMediaFile.bmp"},"timeout": 20},
-    {"key": "高中教育","name": "📚高中┃课堂","type": 3,"api": "csp_AweSomeGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"sp": "Bili","json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/531DD35_773_biligzkt_20251204150243460newMediaFile.bmp"},"timeout": 20},
-    {"key": "csp_AListGuard","name": "🦋AList","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"filterable": 1,"changeable": 0,"style": {"type": "list"},"ext": {"sp": "AList","json": "file://TV/alist.json"},"timeout": 15},
+    //{"key": "csp_AListGuard","name": "🦋AList","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"filterable": 1,"changeable": 0,"style": {"type": "list"},"ext": {"sp": "AList","json": "file://TV/alist.json"},"timeout": 15},
     {"key": "push_agent","name": "🛴手机┃推送","type": 3,"api": "csp_AweSomeGuard","searchable": 0,"filterable": 0,"changeable": 0,"ext": {"sp": "Push","danmu": true},"timeout": 25}
   ],
   "parses": [
@@ -78,9 +74,6 @@
     {"group": "软解码","options": [{"category": 4,"name": "opensles","value": "0"},{"category": 4,"name": "overlay-format","value": "842225234"},{"category": 4,"name": "framedrop","value": "1"},{"category": 4,"name": "soundtouch","value": "1"},{"category": 4,"name": "start-on-prepared","value": "1"},{"category": 1,"name": "http-detect-range-support","value": "0"},{"category": 1,"name": "fflags","value": "fastseek"},{"category": 2,"name": "skip_loop_filter","value": "48"},{"category": 4,"name": "reconnect","value": "1"},{"category": 4,"name": "enable-accurate-seek","value": "0"},{"category": 4,"name": "mediacodec","value": "0"},{"category": 4,"name": "mediacodec-auto-rotate","value": "0"},{"category": 4,"name": "mediacodec-handle-resolution-change","value": "0"},{"category": 4,"name": "mediacodec-hevc","value": "0"},{"category": 1,"name": "dns_cache_timeout","value": "600000000"}]},
     {"group": "硬解码","options": [{"category": 4,"name": "opensles","value": "0"},{"category": 4,"name": "overlay-format","value": "842225234"},{"category": 4,"name": "framedrop","value": "1"},{"category": 4,"name": "soundtouch","value": "1"},{"category": 4,"name": "start-on-prepared","value": "1"},{"category": 1,"name": "http-detect-range-support","value": "0"},{"category": 1,"name": "fflags","value": "fastseek"},{"category": 2,"name": "skip_loop_filter","value": "48"},{"category": 4,"name": "reconnect","value": "1"},{"category": 4,"name": "enable-accurate-seek","value": "0"},{"category": 4,"name": "mediacodec","value": "1"},{"category": 4,"name": "mediacodec-auto-rotate","value": "1"},{"category": 4,"name": "mediacodec-handle-resolution-change","value": "1"},{"category": 4,"name": "mediacodec-hevc","value": "1"},{"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}
   ],
-  "proxy": [
-  "file://TV/proxy.json"
-],
   "rules": [
     {"name": "cl","hosts": ["magnet"],"regex": ["最 新","直 播","更 新"]},
     {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
