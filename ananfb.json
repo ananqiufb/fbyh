@@ -3,7 +3,7 @@
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "http://oss4liview.moji.com/thd_file/2026/03/16/8f3aa460979f999455633dc256d27a34.jpg",
   "sites": [
-    {"key":"哔哩合集","name":"哔哩｜合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":{"json":"./哔哩合集.json","cookie":"./json/bili_cookie.txt"}},
+    {"key":"哔哩合集","name":"哔哩｜合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":{"json":"./哔哩合集.json","cookie":"http://127.0.0.1/json/bili_cookie.txt"}},
     {"key": "瓜子","name": "🍉瓜子","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {"sp": "Guazi","danmu": true},"timeout": 10},
     {"key": "文才","name": "🌺文才","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {"sp": "Jpys","danmu": true},"timeout": 10},
     {"key": "糯米","name": "🍓糯米","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {"sp": "Nmys","danmu": true},"timeout": 10},
