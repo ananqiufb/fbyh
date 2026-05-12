@@ -1,5 +1,5 @@
 {
-"spider":"./yumi.png",
+"spider":"https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
 "sites":[
 {"key":"Huya","name":"虎牙直播","type":3,"jar":"./追剧达人.jar","api":"csp_Huya","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"timeout":10,"style":{"type":"rect","ratio":1.433}},
 {"key": "线路5","name": "🐼潮流","type": 3,"api": "csp_AppRJ","ext": "http://v.rbotv.cn"},
