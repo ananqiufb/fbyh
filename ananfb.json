@@ -4,7 +4,6 @@
 {"key":"Huya","name":"虎牙直播","type":3,"jar":"./追剧达人.jar","api":"csp_Huya","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"timeout":10,"style":{"type":"rect","ratio":1.433}},
 {"key": "线路5","name": "🐼潮流","type": 3,"api": "csp_AppRJ","ext": "http://v.rbotv.cn"},
 {"key": "线路6","name": "🐼一碗","type": 3,"api": "csp_AppGet","ext": "http://www.zjcvod.com|ab4e9a421675f14b"},
-{"key": "线路7","name": "🐼肥猫","type": 3,"api": "csp_AppGet","ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"},
 {"key": "线路8","name": "🐼云云","type": 3,"api": "csp_AppGet","ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"},
 {"key": "线路9","name": "🐼冷心","type": 3,"api": "csp_AppMuou","ext": "http://app.789dd.cn|火猫影视"},
 {
@@ -200,44 +199,6 @@
             "type": 1
         },
         {
-            "api": "https://jszyapi.com/api.php/provide/vod/",
-            "key": "d76e6a4dd10a8e038439df2458b56e9d",
-            "name": "43-极速",
-            "type": 1
-        },
-        {
-            "api": "https://www.hongniuzy3.com/api.php/provide/vod/",
-            "key": "2db4768781aebc9d0dd0de88a838ceb8",
-            "name": "44-红牛",
-            "type": 1
-        },
-        {
-            "api": "https://www.seacms.org/zyapi.php",
-            "key": "ef9152601a4e1ff9e82b7c1bad6ca911",
-            "name": "45-海洋资源",
-            "type": 0
-        },
-        {
-            "api": "https://subocaiji.com/api.php/provide/vod/",
-            "key": "a93e240b86b123b432b61db56896f703",
-            "name": "46-速博*",
-            "quickSearch": 0,
-            "searchable": 0,
-            "type": 1
-        },
-        {
-            "api": "https://api.wujinapi.me/api.php/provide/vod/",
-            "key": "2b95a57602ae920c848d81627e162f9e",
-            "name": "47-无尽",
-            "type": 1
-        },
-        {
-            "api": "https://niuniuzy3.com/api.php/provide/vod/",
-            "key": "be2647749acad7d9ad787c87cb03e9d4",
-            "name": "48-牛牛",
-            "type": 1
-        },
-        {
             "api": "https://www.haohuazy.com/api.php/provide/vod/",
             "key": "e743537b66dc4d8932f3a3800fdb7477",
             "name": "49-豪华",
@@ -256,62 +217,15 @@
             "type": 1
         },
         {
-            "api": "https://api.wujinapi.com/api.php/provide/vod/",
-            "key": "3a565658ffb7ec926e61756240866e64",
-            "name": "52-无尽*",
-            "quickSearch": 0,
-            "searchable": 0,
-            "type": 1
-        },
-        {
-            "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/",
-            "key": "3d23da393a65774f2800c6732c55c7ce",
-            "name": "60-快鹰",
-            "playUrl": "https://stray.serv00.net/ky.php?url=",
-            "type": 1
-        },
-        {
-            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-            "key": "b76a940e9785b5348840472552e70374",
-            "name": "61-红牛*",
-            "quickSearch": 0,
-            "searchable": 0,
-            "type": 1
-        },
-        {
             "api": "https://zuidazy.me/api.php/provide/vod/",
             "key": "6e31126e4b7e6db33dcde3d30e309463",
             "name": "66-最大",
             "type": 1
         },
         {
-            "api": "https://sdzyapi.com/api.php/provide/vod/",
-            "key": "5df752820b133e0e7b9ba6634e3f7dbb",
-            "name": "67-闪电*",
-            "quickSearch": 0,
-            "searchable": 0,
-            "type": 1
-        },
-        {
-            "api": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
-            "key": "f333ebedb73901ca466a8ebc6aeab0da",
-            "name": "68-淘片*",
-            "quickSearch": 0,
-            "searchable": 0,
-            "type": 1
-        },
-        {
             "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
             "key": "1a05b72ecc4cb6326f046a5585f3432b",
             "name": "69-卧龙*",
-            "quickSearch": 0,
-            "searchable": 0,
-            "type": 1
-        },
-        {
-            "api": "https://api.wujinapi.net/api.php/provide/vod/",
-            "key": "16cfe5fb43282cd0609786037845f50b",
-            "name": "70-无尽*",
             "quickSearch": 0,
             "searchable": 0,
             "type": 1
@@ -825,13 +739,5 @@
         "yuncache.hs-mould.cn",
         "yyyyy.mp4"
     ],
-     "updateTime": "2026-05-20 20:34:01",
-    "wallpapers": [
-        "https://bing.img.run/rand.php",
-        "https://api.lyiqk.cn/scenery",
-        "https://picsum.photos/1920/1080",
-        "https://source.unsplash.com/user/erondu/1920x1080",
-        "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-        "https://xn--spsx60cgim8pd.xxooo.cf/"
-    ]
+    "wallpapers":["https://bing.img.run/rand.php]
 }
