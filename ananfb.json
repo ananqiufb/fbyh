@@ -1,7 +1,8 @@
 {
 "spider":"https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
 "sites":[
-{"key":"Huya","name":"虎牙直播","type":3,"jar":"./追剧达人.jar","api":"csp_Huya","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"timeout":10,"style":{"type":"rect","ratio":1.433}},
+{"key":"虎牙直播","name":"🐯虎牙","type": 3,"api":"csp_AweSomeGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"sp":"Huya"},"jar":"./ok.jar;md5;f2973db01b3ac8dd9d9cd931e384935e","timeout":10},
+{"key":"csp_XYQHiker_虎牙直播","name":"🌽玉米Yumi","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":0,"filterable":1,"ext":"./虎牙直播.json","jar":"./xyq.jar;md5;58a6e012f4b819e573af3b2515c61dcf","timeout":10},
 {"key": "线路5","name": "🐼潮流","type": 3,"api": "csp_AppRJ","ext": "http://v.rbotv.cn"},
 {"key": "线路6","name": "🐼一碗","type": 3,"api": "csp_AppGet","ext": "http://www.zjcvod.com|ab4e9a421675f14b"},
 {"key": "线路8","name": "🐼云云","type": 3,"api": "csp_AppGet","ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"},
