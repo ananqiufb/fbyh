@@ -1,7 +1,7 @@
 {
 "spider":"https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
 "sites":[
-{"key":"csp_XYQHiker_虎牙直播","name":"🌽玉米Yumi","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":0,"filterable":1,"ext":"./虎牙直播.json","jar":"./xyq.jar","timeout":10},
+{"key":"csp_XYQHiker_虎牙直播","name":"🌽玉米Yumi","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":0,"filterable":1,"ext":"./虎牙直播.json","jar":"./xyq.jar","playerType":"1","timeout":10},
 {"key": "线路5","name": "🐼潮流","type": 3,"api": "csp_AppRJ","ext": "http://v.rbotv.cn"},
 {"key": "线路6","name": "🐼一碗","type": 3,"api": "csp_AppGet","ext": "http://www.zjcvod.com|ab4e9a421675f14b"},
 {"key": "线路8","name": "🐼云云","type": 3,"api": "csp_AppGet","ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"},
