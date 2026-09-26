@@ -10,7 +10,7 @@ var globalHostHeaders = {};
 var processedHosts = new Set();
 
 var LIVS_SOURCES = [
-{"name":"👖bein体育香蕉直播","url":"./live.txt"},
+{"name":"👖bein体育香蕉直播","url":"https://gh-proxy.org/https://raw.githubusercontent.com/ananqiufb/fbyh/refs/heads/main/live.txt"},
   {
     "name": "👖裤佬TV直播",
     "url": "https://gh-proxy.org/https://raw.githubusercontent.com/pyapk/1/refs/heads/main/zby"
